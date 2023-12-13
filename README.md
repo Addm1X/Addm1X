@@ -1,9 +1,9 @@
 <h1> <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; backend developer </h1>
 
 ### Hi there 👋, my main programming stack:
-<img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring"  alt="Spring" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres"  alt="Postgres" width="40" height="40"/>&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="40" height="40"/>&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres"  alt="Postgres" width="40" height="40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka"  alt="Kafka" width="40" height="40"/>&nbsp;
 
 ### Tools, that I'm using on a daily basis:
