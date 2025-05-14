@@ -15,7 +15,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-original.svg" title="Gatling"  alt="Gatling" width="40" height="40"/>&nbsp;
 
-### CI-CD tools stack:
+### CI-CD stack:
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins"  alt="Jenkins" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus"  alt="Prometheus" width="40" height="40"/>&nbsp;
